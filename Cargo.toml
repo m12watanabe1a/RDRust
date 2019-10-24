@@ -1,0 +1,9 @@
+[package]
+name = "rd_rust"
+version = "0.1.0"
+authors = ["m12watanabe1a <m12watanabe1a@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
